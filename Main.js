@@ -5,6 +5,7 @@ export default class Main extends Component {
         return (
             <div>
                 <p>Hello Git</p>
+                <p>Changes</p>
             </div>
         )
     }
